@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TV Player</string>
+    <string name="settings_title">Pengaturan Playlist</string>
+    <string name="playlist_url_hint">Masukkan URL Playlist M3U</string>
+    <string name="save">Simpan</string>
+    <string name="no_channels">Belum ada channel. Buka Pengaturan untuk menambahkan playlist.</string>
+    <string name="loading">Memuat playlist…</string>
+    <string name="load_failed">Gagal memuat playlist. Periksa URL atau koneksi internet.</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="menu_refresh">Muat Ulang</string>
+</resources>
